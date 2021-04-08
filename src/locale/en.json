@@ -1,0 +1,56 @@
+{
+  "TheHome": {
+    "main__title": "Icon Market - an icon shop for IOS-14 devices",
+    "main__desc": "Simple and beautiful icon sets for iOS 14"
+  },
+  "TheIcon": {
+    "main__title": "Beautiful set of icons for every day",
+    "pay__btn": "I want to!"
+  },
+  "TheIncsruction": {
+    "main__title": "how to apply the purchased pack",
+    "step_1": "1. Open the Commands program",
+    "step_2": "2. Add a new shortcut",
+    "step_3": "3. Press the button",
+    "step_3_span": "Add an action",
+    "step_4": "4. Click on the option",
+    "step_4_span": "Scripts",
+    "step_5": "5. Press the button",
+    "step_5_span": "Open the program",
+    "step_6": "6. Select the program you want to configure",
+    "step_7": "7. Click the three dots icon",
+    "step_8": "8. Press the button",
+    "step_8_span": "Add to home screen",
+    "step_9": "9. Select a name, then tap",
+    "step_10": "10. Press the button",
+    "step_10_span": "Choose a photo",
+    "step_11": "11. Select your icon, then press",
+    "step_11_span": "Add",
+    "step_12": "12. The icon should be on your home screen!"
+  },
+  "TheList": {
+    "list__title": "List of all icons in packs:"
+  },
+  "TheContact": {
+    "contact__title": "Information",
+    "contact__title-ref_1": "Refund Policy:",
+    "contact__desc": "If you do not like something, I can easily return the money, write to the mail -",
+    "contact__title-ref_2": "Contact Information:"
+  },
+  "TheError": {
+    "error__title": "Sorry, there was an error paying :("
+  },
+  "TheFooter": {
+    "footer__content": "This site was created within the diploma work of the fourth-year student of KNTEU, specialization \"Software Engineering\", Horbach Alexey Yurievich"
+  },
+  "TheHead": {
+    "link__home": "Home",
+    "link__inct": "Instruction",
+    "link__icon": "List of icons",
+    "link__cont": "Contacts",
+    "lang__item-change": "Language",
+    "lang__item-ru": "Russian",
+    "lang__item-uk": "Ukrainian",
+    "lang__item-en": "English"
+  }
+}
